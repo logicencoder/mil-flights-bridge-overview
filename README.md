@@ -1,6 +1,6 @@
 # Military Flights Monitor
 
-![Military Flights aircraft board](assets/military-flights-monitor-aircraft-board.png)
+![Military Flights Monitor live ADS-B globe with aircraft details](assets/military-flights-monitor-live-ads-b-globe-aircraft-details.png)
 
 Publicly visible aircraft activity can be difficult to explore in a long list of positions and aircraft identifiers. Military Flights Monitor brings the available military-aircraft observations into a map, globe and searchable board, making it easier to explore the activity that is actually being broadcast.
 
@@ -49,4 +49,3 @@ See [REPOS.md](REPOS.md) for related repositories.
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
 
-<!-- TODO(screenshots, 2026-11-07): new screenshot -->
