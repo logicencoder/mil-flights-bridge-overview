@@ -1,6 +1,6 @@
 # Military Flights Monitor
 
-![Military Flights aircraft board](assets/overview-2026-10-24.png)
+![Military Flights aircraft board](assets/military-flights-monitor-aircraft-board.png)
 
 Publicly visible aircraft activity can be difficult to explore in a long list of positions and aircraft identifiers. Military Flights Monitor brings the available military-aircraft observations into a map, globe and searchable board, making it easier to explore the activity that is actually being broadcast.
 
