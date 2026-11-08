@@ -2,5 +2,5 @@
 
 | Repository | Visibility | Role |
 |---|---|---|
-| [mil-flights-bridge](https://github.com/logicencoder/mil-flights-bridge) | Private | Product implementation and technical documentation |
-| [mil-flights-bridge-overview](https://github.com/logicencoder/mil-flights-bridge-overview) | Public | Product presentation |
+| [military-flights-monitor-bridge](https://github.com/logicencoder/military-flights-monitor-bridge) | Private | Product implementation and technical documentation |
+| [military-flights-monitor-bridge-overview](https://github.com/logicencoder/military-flights-monitor-bridge-overview) | Public | Product presentation |

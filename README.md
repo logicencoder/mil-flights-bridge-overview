@@ -43,7 +43,7 @@ The source's coverage sets the boundary of the picture. Use the board to explore
 
 ---
 
-Private code: [mil-flights-bridge](https://github.com/logicencoder/mil-flights-bridge)
+Private code: [military-flights-monitor-bridge](https://github.com/logicencoder/military-flights-monitor-bridge)
 
 See [REPOS.md](REPOS.md) for related repositories.
 
